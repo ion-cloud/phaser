@@ -1,0 +1,25 @@
+{
+  "name": "@ion-cloud/phaser",
+  "version": "1.0.0",
+  "description": "JavaScript gradient animation and initialization helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ion-cloud/phaser.git"
+  },
+  "keywords": [
+    "javascript",
+    "ion-cloud",
+    "game-dev",
+    "utility"
+  ],
+  "author": "NathanielInman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ion-cloud/phaser/issues"
+  },
+  "homepage": "https://github.com/ion-cloud/phaser#readme"
+}
